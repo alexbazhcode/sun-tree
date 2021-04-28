@@ -31,3 +31,12 @@ window.addEventListener('DOMContentLoaded', () => {
         })
     })
 })
+
+let arr = ['plum.png','orange.jpg','apple.bmp']
+
+console.log(arr[0]);
+
+// alert("Hello WORLD!");
+
+confirm("Are You Sure?");
+
